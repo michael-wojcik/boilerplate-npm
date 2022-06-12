@@ -1,7 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "MJ Wojcik",
+	"description": "A package.json file for learning npm",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
